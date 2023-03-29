@@ -1,4 +1,6 @@
-## Audits
+## Overview
+
+The following findings are from all of the audits I have performed across the ethereum, solana, and cosmos ecosystems. Don't hesitate to DM @wzrdk3lly on twitter if you have any questions :)
 
 ## Public Audits
 
@@ -12,6 +14,6 @@
 - [Ethereum] DeFi Trading Protocol
 - [Cosmos] DeFi Perpetual Futures/Derivative Protocol
 
-## Contest Findings
+## Contest/Bounty Findings
 
-- [[M-3] Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
+- [[Ethereum] Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
