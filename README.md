@@ -16,7 +16,7 @@ I have [REDACTED] key names, code snippets, and details related to any performed
 
 - [[Ethereum] DeFi Yield Protocol](./Prviate%20Audits/yield.md)
 - [[Solana] GameFi/Multisig Wallet](./Prviate%20Audits/multiSig.md)
-- [Cosmos] DeFi Perpetual Futures/Derivative Protocol
+- [Cosmos] DeFi Perpetual Futures/Derivative Protocol (In progress)
 
 ## Contest/Bounty Findings
 
