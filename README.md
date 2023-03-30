@@ -4,7 +4,7 @@ The following findings are from all of the audits I have been apart of across th
 
 ## Public Audits
 
-All of these public audits can be found online
+Publicly available audits I have contributed to.
 
 - [[Solana] PsyOptions DeFi Options Protocol](./Public%20Audits/PsyOptions.md)
 - [[Solana] Soldid Decentralized Identity Audit](./Public%20Audits/Soldid.md)
@@ -15,7 +15,7 @@ All of these public audits can be found online
 I have [REDACTED] key names, code snippets, and details related to any performed private audits to abide by MSA agreements.
 
 - [[Ethereum] DeFi Yield Protocol](./Prviate%20Audits/yield.md)
-- [[Solana] GameFi/Multisig Wallet](./Prviate%20Audits/multiSig.md)
+- [[Solana] Multisig Wallet](./Prviate%20Audits/multiSig.md)
 - [Cosmos] DeFi Perps Protocol (In progress)
 
 ## Contest/Bounty Findings
@@ -24,7 +24,7 @@ I have [REDACTED] key names, code snippets, and details related to any performed
 
 ## Content
 
-- [Linkedln Learning Course - Web3 Security Awareness](https://www.linkedin.com/learning/cybersecurity-awareness-web3-crypto-and-nfts/key-takeaways?autoplay=true)
+- [Linkedin Learning Course - Web3 Security Awareness](https://www.linkedin.com/learning/cybersecurity-awareness-web3-crypto-and-nfts/key-takeaways?autoplay=true)
 - [Youtube Streams of my Study Sessions](https://www.youtube.com/channel/UCx248q4tpOZV6o-Ia47gmvQ)
 - [Bring a Hacker to Work Chat](https://www.youtube.com/watch?v=fIN6NRpvmZY&list=PLGHNMsxvefm00bgsKwaPZnhGWYkDlxJsW&index=17&ab_channel=blackgirlshack)
 
