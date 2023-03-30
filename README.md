@@ -1,6 +1,6 @@
 ## Overview
 
-The following findings are from all of the audits I have performed across the Ethereum, Solana, and Cosmos ecosystems. Don't hesitate to DM @wzrdk3lly on twitter if you have any questions :)
+The following findings are from all of the audits I have performed across the Ethereum, Solana, and Cosmos ecosystems. Don't hesitate to DM me [@wzrdk3lly](https://twitter.com/wzrdk3lly) if you have any questions or are in need of an Audit :)
 
 ## Public Audits
 
@@ -8,19 +8,19 @@ All of these public audits can be found online
 
 - [[Solana] PsyOptions DeFi Options Protocol](./Public%20Audits/PsyOptions.md)
 - [[Solana] Soldid Decentralized Identity Audit](./Public%20Audits/Soldid.md)
-- [Solana] Cryptid Decentralized Identity Audit
+- [[Solana] Cryptid Decentralized Identity Audit](./Public%20Audits/Cryptid.md)
 
 ## Private Audits
 
-I have [REDACTED] key names/code snippets related to the private audits I have been apart of.
+I have [REDACTED] key names, code snippets, and details related to any performed private audits to abide by MSA agreements.
 
-- [Ethereum] DeFi Trading Protocol
-- [Solana] GameFi/Multisig Wallet
+- [[Ethereum] DeFi Yield Protocol](./Prviate%20Audits/yield.md)
+- [[Solana] GameFi/Multisig Wallet](./Prviate%20Audits/multiSig.md)
 - [Cosmos] DeFi Perpetual Futures/Derivative Protocol
 
 ## Contest/Bounty Findings
 
-- [[Ethereum] Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
+- [[Ethereum] Surge's Custom Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
 
 ## Content
 
