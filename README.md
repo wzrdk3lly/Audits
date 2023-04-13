@@ -21,6 +21,7 @@ I have [REDACTED] key names, code snippets, and details related to any performed
 ## Contest/Bounty Findings
 
 - [[Ethereum] Surge's Custom Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
+- [[Ethereum] Derby's unprotected slippage tolerance can lead to user/protocol loss of funds ](https://github.com/sherlock-audit/2023-01-derby-judging/issues/54)
 
 ## Content
 
