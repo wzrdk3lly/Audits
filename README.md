@@ -9,6 +9,7 @@ Publicly available audits I have contributed to.
 - [[Solana] PsyOptions DeFi Options Protocol](./Public%20Audits/PsyOptions.md)
 - [[Solana] Soldid Decentralized Identity Audit](./Public%20Audits/Soldid.md)
 - [[Solana] Cryptid Decentralized Identity Audit](./Public%20Audits/Cryptid.md)
+- [[Cosmos] Levana](./Public%20Audits/Levana.md)
 
 ## Private Audits
 
@@ -16,12 +17,16 @@ I have [REDACTED] key names, code snippets, and details related to any performed
 
 - [[Ethereum] DeFi Yield Protocol](./Prviate%20Audits/yield.md)
 - [[Solana] Multisig Wallet](./Prviate%20Audits/multiSig.md)
-- [Cosmos] DeFi Perps Protocol (In progress)
 
 ## Contest/Bounty Findings
 
-- [[Ethereum] Surge's Custom Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)
-- [[Ethereum] Derby's unprotected slippage tolerance can lead to user/protocol loss of funds ](https://github.com/sherlock-audit/2023-01-derby-judging/issues/54)
+| Vulnerability                                                                                                                                | Severity | Vulnerability Type | Protocol | Protocol Type | Platform |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- | ------------- | -------- |
+| [Custom Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-02-surge-judging/issues/116)           | Medium   | Frontrunning       | Surge    | Lending       | Sherlock |
+| [Unprotected slippage tolerance can lead to user/protocol loss of funds ](https://github.com/sherlock-audit/2023-01-derby-judging/issues/54) | Medium   | Slippage           | Derby    | Lending       | Sherlock |
+| [Unchecked return value leads to incorrect ERC20Claimed amount](https://github.com/sherlock-audit/2023-04-footium-judging/issues/241)        | Medium   | Unchecked return   | Footium  | GameFi        | Sherlock |
+| [Clubs may be minted to non ERC721 receivers](https://github.com/sherlock-audit/2023-04-footium-judging/issues/234)                          | Medium   | Unsafe minting     | Footium  | GameFi        | Sherlock |
+| [Approve function is vulnerable to frontrunning attack](https://github.com/sherlock-audit/2023-04-footium-judging/issues/218)                | Medium   | Frontrunning       | Footium  | GameFi        | Sherlock |
 
 ## Content
 
